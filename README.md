@@ -1,3 +1,3 @@
 # notZelda
 
-Play t.ly/Cnov
+https://deonmartinez.github.io/notZelda/
